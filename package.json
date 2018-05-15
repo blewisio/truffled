@@ -1,0 +1,17 @@
+{
+  "name": "truffled",
+  "version": "0.1.0",
+  "description": "cooking and recipe organization library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cooking",
+    "recipes",
+    "food",
+    "ingredients"
+  ],
+  "author": "Brent Lewis <brent.lewis08@gmail.com>",
+  "license": "ISC"
+}
