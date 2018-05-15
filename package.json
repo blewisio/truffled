@@ -4,7 +4,7 @@
   "description": "cooking and recipe organization library",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "keywords": [
     "cooking",
@@ -13,5 +13,8 @@
     "ingredients"
   ],
   "author": "Brent Lewis <brent.lewis08@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^22.4.3"
+  }
 }
