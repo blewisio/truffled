@@ -46,3 +46,7 @@ Otherwise:
 ```
 npm install truffled --save
 ```
+
+## License
+
+ISC
