@@ -2,7 +2,7 @@
 
 cooking and recipe organization library
 
-```
+```javascript
 const { Recipe } = require('truffled');
 
 const recipe = new Recipe({
